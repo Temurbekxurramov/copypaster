@@ -9,7 +9,7 @@
     background-repeat: no-repeat;
 }
 .hero__container{
-    height: 60px;
+    height: 65px;
 }
 .hero__box{
     margin-left: 50px;
@@ -45,7 +45,7 @@ text-align: center;
 color:rgba(255, 255, 255, 1);
 background: rgba(252, 183, 43, 1);
 border: 1px solid transparent;
-padding: 10px 20px;
+padding: 10px 10px;
 }
 .header__box{
 display: flex;
